@@ -13,18 +13,16 @@
 
 # 🛠 Skills 🛠
 ### Platforms & Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-5FA04E.svg?&style=flat-square&logo=Node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000.svg?&style=flat-square&logo=Express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat-square&logo=TypeScript&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438.svg?&style=flat-square&logo=Redis&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=Ubuntu&logoColor=white)
-
+<div align = "center">
+  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E.svg?&style=flat-square&logo=Node.js&logoColor=white"/>
+  <img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?&style=flat-square&logo=Express&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white"/>
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/>
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438.svg?&style=flat-square&logo=Redis&logoColor=white"/>
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=Ubuntu&logoColor=white"/>
+</div>
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)

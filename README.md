@@ -32,6 +32,7 @@
 <br>
   <img alt="html" src="https://img.shields.io/badge/html5-E34F26.svg?&style=flat-square&logo=html5&logoColor=white"/>
   <img alt="css" src="https://img.shields.io/badge/css3-1572B6.svg?&style=flat-square&logo=css3&logoColor=white"/>
+  <img alt="axios" src="https://img.shields.io/badge/axios-5A29E4.svg?&style=flat-square&logo=axios&logoColor=white"/>
   <img alt="jquery" src="https://img.shields.io/badge/jquery-0769AD.svg?&style=flat-square&logo=jquery&logoColor=white"/>
   <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7952B3.svg?&style=flat-square&logo=bootstrap&logoColor=white"/>
 <br>
@@ -46,13 +47,11 @@
 
 ### OS & Tools
 <div align = "center">
-  <img alt="docker" src="https://img.shields.io/badge/docker-2496ED.svg?&style=flat-square&logo=docker&logoColor=white"/>
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=Ubuntu&logoColor=white"/>
   <img alt="linux" src="https://img.shields.io/badge/linux-FCC624.svg?&style=flat-square&logo=linux&logoColor=white"/>
+  <br>
+  <img alt="docker" src="https://img.shields.io/badge/docker-2496ED.svg?&style=flat-square&logo=docker&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/>
-  <img alt="Intellij idea" src="https://img.shields.io/badge/Intellij%20idea-000000.svg?&style=flat-square&logo=Intellij%20idea&logoColor=white"/>
-  <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Intellij%20idea-000000.svg?&style=flat-square&logo=Intellij%20idea&logoColor=white">
   <img alt="figma" src="https://img.shields.io/badge/figma-F24E1E.svg?&style=flat-square&logo=figma&logoColor=white">
   <br>
   

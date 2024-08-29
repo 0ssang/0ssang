@@ -1,16 +1,15 @@
 ## CHO YOUNG SANG 👋
 <div align = "center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0ssang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-  <a href="https://solved.ac/ysys99/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ysys99"/></a>
 </div>
 <div align = "center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0ssang&layout=compact&langs_count=10&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff&hide_border=False" />
   </a>
+  <a href="https://solved.ac/ysys99/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ysys99"/></a>
 </div>
 
 ![Youngsang's GitHub stats](https://github-readme-stats.vercel.app/api?username=0ssang&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysys99)](https://solved.ac/ysys99/)
 
 # 🛠 Skills 🛠
 ### Platforms & Languages
@@ -25,6 +24,7 @@
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=Ubuntu&logoColor=white"/>
 </div>
 ### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 ![Intellij idea](https://img.shields.io/badge/Intellij%20idea-000000.svg?&style=flat-square&logo=Intellij%20idea&logoColor=white)

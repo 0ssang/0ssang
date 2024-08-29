@@ -1,7 +1,5 @@
 ## CHO YOUNG SANG 👋
-<div align = "center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0ssang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</div>
+
 <div align="center">
   <!-- 첫 번째 요소 -->
   <div style="margin-top: 10px;">
@@ -19,7 +17,10 @@
       <img align="center" alt="Solved.ac Profile" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ysys99"/>
     </a>
   </div>
-  
+</div>
+<br>
+<div align = "center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0ssang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
 
@@ -41,6 +42,7 @@
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white"/> 
 <br>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/>
+  <img alt="Oracle" src="https://img.shields.io/badge/oracle-F80000.svg?&style=flat-square&logo=oracle&logoColor=white"/>
   <img alt="mongodb" src="https://img.shields.io/badge/mongodb-47A248.svg?&style=flat-square&logo=mongodb&logoColor=white"/>
   <img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438.svg?&style=flat-square&logo=Redis&logoColor=white"/>
 </div>
@@ -51,6 +53,8 @@
   <img alt="linux" src="https://img.shields.io/badge/linux-FCC624.svg?&style=flat-square&logo=linux&logoColor=white"/>
   <br>
   <img alt="docker" src="https://img.shields.io/badge/docker-2496ED.svg?&style=flat-square&logo=docker&logoColor=white"/>
+  <img alt="swagger" src="https://img.shields.io/badge/swagger-85EA2D.svg?&style=flat-square&logo=swagger&logoColor=white"/>
+  <img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?&style=flat-square&logo=npm&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/>
   <img alt="figma" src="https://img.shields.io/badge/figma-F24E1E.svg?&style=flat-square&logo=figma&logoColor=white">
   <br>

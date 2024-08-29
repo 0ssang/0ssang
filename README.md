@@ -25,30 +25,20 @@
 
 
 # 🛠 Skills
-### Languages
+### Languages & Flatforms
 <div align = "center">
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
-</div>
-
-### Front-end
-<div align = "center">
+<br>
   <img alt="html" src="https://img.shields.io/badge/html5-E34F26.svg?&style=flat-square&logo=html5&logoColor=white"/>
   <img alt="css" src="https://img.shields.io/badge/css3-1572B6.svg?&style=flat-square&logo=css3&logoColor=white"/>
   <img alt="jquery" src="https://img.shields.io/badge/jquery-0769AD.svg?&style=flat-square&logo=jquery&logoColor=white"/>
   <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7952B3.svg?&style=flat-square&logo=bootstrap&logoColor=white"/>
-</div>
-
-### Back-end
-<div align = "center">
+<br>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E.svg?&style=flat-square&logo=Node.js&logoColor=white"/>
   <img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?&style=flat-square&logo=Express&logoColor=white"/>
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white"/> 
-</div>
-
-### DataBases
-
-<div align = "center">
+<br>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/>
   <img alt="mongodb" src="https://img.shields.io/badge/mongodb-47A248.svg?&style=flat-square&logo=mongodb&logoColor=white"/>
   <img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438.svg?&style=flat-square&logo=Redis&logoColor=white"/>

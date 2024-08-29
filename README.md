@@ -18,7 +18,7 @@
   <!-- 세 번째 요소 -->
   <div style="margin-top: 10px;">
     <a href="https://solved.ac/ysys99/">
-      <img alt="Solved.ac Profile" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ysys99"/>
+      <img align="center" alt="Solved.ac Profile" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ysys99"/>
     </a>
   </div>
 </div>

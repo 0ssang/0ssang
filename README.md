@@ -5,19 +5,20 @@
 <div align="center">
   <!-- 첫 번째 요소 -->
   <img alt="Youngsang's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=0ssang&show_icons=true&theme=radical"/>
-  
+
   <!-- 두 번째와 세 번째 요소를 포함하는 div -->
-  <div style="display: flex; justify-content: center; align-items: center;">
+  <div style="display: flex; justify-content: center; align-items: center; margin-top: 10px;">
     <!-- 두 번째 요소 -->
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0ssang&layout=compact&langs_count=10&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff&hide_border=False" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0ssang&layout=compact&langs_count=10&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff&hide_border=False" style="height: 150px;"/>
     </a>
     <!-- 세 번째 요소 -->
     <a href="https://solved.ac/ysys99/">
-      <img alt="Solved.ac Profile" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ysys99"/>
+      <img alt="Solved.ac Profile" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ysys99" style="height: 150px;"/>
     </a>
   </div>
 </div>
+
 
 # 🛠 Skills 🛠
 ### Platforms & Languages

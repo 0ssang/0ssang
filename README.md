@@ -24,33 +24,41 @@
 
 
 
-# 🛠 Skills 🛠
-### Platforms & Languages
+# 🛠 Skills
+### Languages
 <div align = "center">
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E.svg?&style=flat-square&logo=Node.js&logoColor=white"/>
-  <img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?&style=flat-square&logo=Express&logoColor=white"/>
-  <img alt="java" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white"/>
-  
-  <br>
-  
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+</div>
+
+### Front-end
+<div align = "center">
+  <img alt="html" src="https://img.shields.io/badge/html5-E34F26.svg?&style=flat-square&logo=html5&logoColor=white"/>
+  <img alt="css" src="https://img.shields.io/badge/css3-1572B6.svg?&style=flat-square&logo=css3&logoColor=white"/>
   <img alt="jquery" src="https://img.shields.io/badge/jquery-0769AD.svg?&style=flat-square&logo=jquery&logoColor=white"/>
   <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7952B3.svg?&style=flat-square&logo=bootstrap&logoColor=white"/>
+</div>
 
-  <br>
+### Back-end
+<div align = "center">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E.svg?&style=flat-square&logo=Node.js&logoColor=white"/>
+  <img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?&style=flat-square&logo=Express&logoColor=white"/>
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white"/> 
+</div>
+
+### DataBases
+
+<div align = "center">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/>
   <img alt="mongodb" src="https://img.shields.io/badge/mongodb-47A248.svg?&style=flat-square&logo=mongodb&logoColor=white"/>
   <img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438.svg?&style=flat-square&logo=Redis&logoColor=white"/>
-  <br>
-  
+</div>
+
+### OS & Tools
+<div align = "center">
   <img alt="docker" src="https://img.shields.io/badge/docker-2496ED.svg?&style=flat-square&logo=docker&logoColor=white"/>
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=Ubuntu&logoColor=white"/>
   <img alt="linux" src="https://img.shields.io/badge/linux-FCC624.svg?&style=flat-square&logo=linux&logoColor=white"/>
-</div>
-
-### Tools
-<div align = "center">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/>
   <img alt="Intellij idea" src="https://img.shields.io/badge/Intellij%20idea-000000.svg?&style=flat-square&logo=Intellij%20idea&logoColor=white"/>
   <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>

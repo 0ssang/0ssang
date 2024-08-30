@@ -1,4 +1,4 @@
-## CHO YOUNG SANG 👋
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=YOUNGSNAG%20CHO%20👋&fontSize=90" />
 
 <div align="center">
   <!-- 첫 번째 요소 -->

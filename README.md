@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=YOUNGSANG%20CHO%20👋&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=YOUNGSANG%20CHO&fontAlignY=40&animation=scaleIn" />
 
 <div align="center">
   <!-- 첫 번째 요소 -->

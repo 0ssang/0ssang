@@ -54,14 +54,6 @@
   <img alt="figma" src="https://img.shields.io/badge/figma-F24E1E.svg?&style=flat-square&logo=figma&logoColor=white">
   <br>
   
-</div>
-
-### Learning...
-<div align = "center">
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-3178C6.svg?&style=flat-square&logo=typescript&logoColor=white"/>
-  <img alt="nestjs" src="https://img.shields.io/badge/nestjs-E0234E.svg?&style=flat-square&logo=nestjs&logoColor=white"/>
-  <br>
-</div>
 
 ---
 

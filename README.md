@@ -26,28 +26,49 @@
 -->
 
 # ✨ Skills
-<div align = "center">
-  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
-<br>
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img alt="springboot" src="https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/> 
-  <img alt="SpringSecurity" src="https://img.shields.io/badge/SpringSecurity-6DB33F.svg?&style=for-the-badge&logo=springsecurity&logoColor=white"/> 
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/> 
-<br>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438.svg?&style=for-the-badge&logo=Redis&logoColor=white"/>
-  <img alt="apachekafka" src="https://img.shields.io/badge/apachekafka-231F20?&style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img alt="rabbitmq" src="https://img.shields.io/badge/rabbitmq-FF6600?&style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-<br>
-  <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-EF7B4D.svg?&style=for-the-badge&logo=argo&logoColor=white"/>
-  <img alt="githubactions" src="https://img.shields.io/badge/githubactions-2088FF?&style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-326CE5?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img alt="docker" src="https://img.shields.io/badge/docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white"/>
 
+### Languages
+<div>
+  <img alt="Java" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=openjdk&logoColor=white">
+  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>
+</div>
+
+### Frontend
+<div>
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white">
+  <!--<img src="https://img.shields.io/badge/JSP-005F0F?style=flat-square&logo=htmx&logoColor=white">-->
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
+</div>
+
+### Backend
+<div>
+  <img alt="springboot" src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=spring&logoColor=white"/>
+  <img alt="springboot" src="https://img.shields.io/badge/Spring%20Security-6DB33F.svg?&style=flat-square&logo=springsecurity&logoColor=white"/>
+  <img alt="springboot" src="https://img.shields.io/badge/Spring%20Cloud-6DB33F.svg?&style=flat-square&logo=icloud&logoColor=white"/>
+  <img alt="springboot" src="https://img.shields.io/badge/Spring%20Batch-6DB33F.svg?&style=flat-square&logo=onlyoffice&logoColor=white"/>
+  <img alt="springboot" src="https://img.shields.io/badge/Express-000000.svg?&style=flat-square&logo=express&logoColor=white"/>
+</div>
+
+### Database
+<div>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=flat-square&logo=postgresql&logoColor=white"/>
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438.svg?&style=flat-square&logo=Redis&logoColor=white"/>
+</div>
+
+### Messaging
+<div>
+  <img alt="apachekafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20?&style=flat-square&logo=apachekafka&logoColor=white"/>
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?&style=flat-square&logo=rabbitmq&logoColor=white"/>
+</div>
+
+### DevOps/Infra
+<div>
+  <img alt="docker" src="https://img.shields.io/badge/Docker-2496ED?&style=flat-square&logo=docker&logoColor=white"/>
+  <img alt="kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?&style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=flat-square&logo=jenkins&logoColor=white"/>
+  <img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-EF7B4D.svg?&style=flat-square&logo=argo&logoColor=white"/>
+  <img alt="githubactions" src="https://img.shields.io/badge/Github%20Actions-2088FF?&style=flat-square&logo=githubactions&logoColor=white"/>
 </div>
   
 
